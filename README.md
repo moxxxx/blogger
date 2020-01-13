@@ -1,4 +1,4 @@
-A blog simulation App host on Heroku cloud server
+A blog simulation App using jsonPlaceHolder APU hosted on Heroku cloud server
 
 
 demo
